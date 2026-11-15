@@ -1,10 +1,10 @@
 # US Design Jobs
 
-Open design roles at US employers: 103 design roles at 76 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=design).** Last updated 2026-11-14.
+Open design roles at US employers: 102 design roles at 75 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=design).** Last updated 2026-11-15.
 
-All 103 are listed below. Browse the newest on [warmada.com/jobs/design](https://warmada.com/jobs/design?utm_source=github&utm_medium=list&utm_campaign=design).
+All 102 are listed below. Browse the newest on [warmada.com/jobs/design](https://warmada.com/jobs/design?utm_source=github&utm_medium=list&utm_campaign=design).
 
-**By city:** New York (22) · San Francisco (26) · Boston (2) · Austin (2) · Chicago (2) · Los Angeles (3) · Dallas (1) · Remote (16) · Elsewhere in the US (29)
+**By city:** New York (22) · San Francisco (26) · Boston (2) · Austin (2) · Chicago (2) · Los Angeles (3) · Dallas (1) · Remote (16) · Elsewhere in the US (28)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a design role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -124,7 +124,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Kraken](https://warmada.com/companies/kraken?utm_source=github&utm_medium=list&utm_campaign=design) | Staff Product Designer - AI Products | United States | Nov 3 | [Apply](https://jobs.ashbyhq.com/kraken.com/c41dff23-f502-42a7-a17e-5c8f759e7905) · [Find the hiring manager](https://warmada.com/job/kraken-staff-product-designer-ai-products-a98f5a7d-6c69-4229-a3d4-16529133d566?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Homebound](https://warmada.com/companies/homebound?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Product Designer, Mobile | Remote, US | Nov 2 | [Apply](https://jobs.ashbyhq.com/Homebound/79f89e39-896a-42ca-9457-4abd2154cae9) · [Find the hiring manager](https://warmada.com/job/homebound-senior-product-designer-mobile-221584ca-6186-4171-98dc-ae9fb851da50?utm_source=github&utm_medium=list&utm_campaign=design) |
 
-## Elsewhere in the US (29)
+## Elsewhere in the US (28)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -135,7 +135,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Airbnb](https://warmada.com/companies/airbnb?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Program Manager, Design | United States | Nov 11 | [Apply](https://careers.airbnb.com/positions/8356141?gh_jid=8356141) · [Find the hiring manager](https://warmada.com/job/airbnb-senior-program-manager-design-bd3ad94b-b539-45bf-8cf2-cf1792c36072?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Airbnb](https://warmada.com/companies/airbnb?utm_source=github&utm_medium=list&utm_campaign=design) | Lead Program Manager, Design | United States | Nov 11 | [Apply](https://careers.airbnb.com/positions/8355483?gh_jid=8355483) · [Find the hiring manager](https://warmada.com/job/airbnb-lead-program-manager-design-396ca63b-7f98-4be0-b60e-f05f0261b861?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=design) | Product Designer, Treasury | US / Canada | Nov 11 | [Apply](https://stripe.com/jobs/search?gh_jid=8205126) · [Find the hiring manager](https://warmada.com/job/stripe-product-designer-treasury-ab5db839-5a72-482a-ae29-cc15e49e951d?utm_source=github&utm_medium=list&utm_campaign=design) |
-| Mob Entertainment | Principal Technical Sound Designer | United States | Nov 10 | [Apply](https://job-boards.greenhouse.io/mobentertainment/jobs/5236271007) · [Find the hiring manager](https://warmada.com/job/mob-entertainment-principal-technical-sound-designer-9d437922-8a17-4a68-9e46-6852cb88e397?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=design) | Sr. 3D Generalist, UX | Newark, CA | Nov 10 | [Apply](https://lucidmotors.com/careers/search/5253175007?gh_jid=5253175007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-sr-3d-generalist-ux-bb4a9f06-563e-4656-a7f8-3aa2eedb0970?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Formlabs](https://warmada.com/companies/formlabs?utm_source=github&utm_medium=list&utm_campaign=design) | Senior User Researcher | Somerville, MA | Nov 10 | [Apply](https://careers.formlabs.com/job/8368577/apply/?gh_jid=8368577) · [Find the hiring manager](https://warmada.com/job/formlabs-senior-user-researcher-830cd099-f557-4cb6-94d9-10b2219b3bcd?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Zoox](https://warmada.com/companies/zoox?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Exterior Designer, Robot Industrial Design | Foster City, CA | Nov 9 | [Apply](https://jobs.lever.co/zoox/587518db-01e7-4408-8a1f-683846567483) · [Find the hiring manager](https://warmada.com/job/zoox-senior-exterior-designer-robot-industrial-design-cee76a58-6fb3-4922-a991-904bb71a1c35?utm_source=github&utm_medium=list&utm_campaign=design) |
