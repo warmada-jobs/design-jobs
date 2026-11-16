@@ -1,16 +1,16 @@
 # US Design Jobs
 
-Open design roles at US employers: 102 design roles at 75 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=design).** Last updated 2026-11-15.
+Open design roles at US employers: 99 design roles at 74 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=design).** Last updated 2026-11-16.
 
-All 102 are listed below. Browse the newest on [warmada.com/jobs/design](https://warmada.com/jobs/design?utm_source=github&utm_medium=list&utm_campaign=design).
+All 99 are listed below. Browse the newest on [warmada.com/jobs/design](https://warmada.com/jobs/design?utm_source=github&utm_medium=list&utm_campaign=design).
 
-**By city:** New York (22) · San Francisco (26) · Boston (2) · Austin (2) · Chicago (2) · Los Angeles (3) · Dallas (1) · Remote (16) · Elsewhere in the US (28)
+**By city:** New York (21) · San Francisco (26) · Boston (2) · Austin (2) · Chicago (2) · Los Angeles (3) · Dallas (1) · Remote (15) · Elsewhere in the US (27)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a design role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## New York (22)
+## New York (21)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -35,7 +35,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [FanDuel](https://warmada.com/companies/fanduel?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Product Designer | New York City | Nov 4 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8352031) · [Find the hiring manager](https://warmada.com/job/fanduel-senior-product-designer-9925bdc4-8003-4b2a-9257-2c289343d688?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Robinhood](https://warmada.com/companies/robinhood?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Content Designer, National Impact | Menlo Park, CA; New York, NY | Nov 3 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8310197?t=gh_src=&gh_jid=8310197) · [Find the hiring manager](https://warmada.com/job/robinhood-senior-content-designer-national-impact-49646750-84f9-4a6e-9ec9-6f8bf78c5b70?utm_source=github&utm_medium=list&utm_campaign=design) |
 | Gecko Robotics | Staff Product Designer \| Spatial Experiences | New York City | Nov 2 | [Apply](https://jobs.ashbyhq.com/gecko-robotics/521ebe0f-2aec-4bf9-a1e8-bc2cbaab8ee0) · [Find the hiring manager](https://warmada.com/job/gecko-robotics-staff-product-designer-spatial-experiences-4b07270b-4f29-4a44-a909-5ec6b4ac991c?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Rent the Runway](https://warmada.com/companies/rent-the-runway?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Director, Design | Brooklyn, NY (Rent the Runway HQ) | Nov 2 | [Apply](https://job-boards.greenhouse.io/renttherunway/jobs/8345820) · [Find the hiring manager](https://warmada.com/job/rent-the-runway-senior-director-design-b3da5136-dada-42e0-8af6-e5f05bf45d26?utm_source=github&utm_medium=list&utm_campaign=design) |
 
 ## San Francisco (26)
 
@@ -103,7 +102,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Homebound](https://warmada.com/companies/homebound?utm_source=github&utm_medium=list&utm_campaign=design) | Interior Designer | Dallas, TX | Nov 13 | [Apply](https://jobs.ashbyhq.com/Homebound/11f655b3-e46b-4efb-896f-00689e8291ac) · [Find the hiring manager](https://warmada.com/job/homebound-interior-designer-82393b6d-0ffe-4cc6-84d7-6aba38f49e87?utm_source=github&utm_medium=list&utm_campaign=design) |
 
-## Remote (16)
+## Remote (15)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -122,9 +121,8 @@ A bad listing? Email hello@warmada.com with the link.
 | ARB Interactive | Product Designer | United States | Nov 5 | [Apply](https://jobs.ashbyhq.com/arb-interactive/c48514f7-7476-4d5d-bab8-6d776a6caf3a) · [Find the hiring manager](https://warmada.com/job/arb-interactive-product-designer-9a7f6121-5dff-43e3-9818-cb89127b64bf?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=design) | BIM Designer &amp; Coordinator: Civil | US - Remote | Nov 5 | [Apply](https://jobs.ashbyhq.com/openai/66453891-c75a-41c9-a7de-d0c67f23db4e) · [Find the hiring manager](https://warmada.com/job/openai-bim-designer-and-coordinator-civil-8e4d7610-bb57-4843-ab6a-cc1c7cb349c6?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Kraken](https://warmada.com/companies/kraken?utm_source=github&utm_medium=list&utm_campaign=design) | Staff Product Designer - AI Products | United States | Nov 3 | [Apply](https://jobs.ashbyhq.com/kraken.com/c41dff23-f502-42a7-a17e-5c8f759e7905) · [Find the hiring manager](https://warmada.com/job/kraken-staff-product-designer-ai-products-a98f5a7d-6c69-4229-a3d4-16529133d566?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Homebound](https://warmada.com/companies/homebound?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Product Designer, Mobile | Remote, US | Nov 2 | [Apply](https://jobs.ashbyhq.com/Homebound/79f89e39-896a-42ca-9457-4abd2154cae9) · [Find the hiring manager](https://warmada.com/job/homebound-senior-product-designer-mobile-221584ca-6186-4171-98dc-ae9fb851da50?utm_source=github&utm_medium=list&utm_campaign=design) |
 
-## Elsewhere in the US (28)
+## Elsewhere in the US (27)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -155,4 +153,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Zscaler](https://warmada.com/companies/zscaler?utm_source=github&utm_medium=list&utm_campaign=design) | Senior AI-Native Designer &amp; Builder, Design System | Santa Clara, California, USA | Nov 3 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5271544007) · [Find the hiring manager](https://warmada.com/job/zscaler-senior-ai-native-designer-and-builder-design-system-182a6603-d97e-48d3-bb72-d8eaeadde006?utm_source=github&utm_medium=list&utm_campaign=design) |
 | PLACE Corporate Careers | Web Designer | Bellingham, WA | Nov 3 | [Apply](https://place.com/corporate-careers/4750509005?gh_jid=4750509005) · [Find the hiring manager](https://warmada.com/job/place-corporate-careers-web-designer-9cb0a4e2-a686-4292-b5bd-01a1ebaa1763?utm_source=github&utm_medium=list&utm_campaign=design) |
 | Wealthfront | Senior Content Designer, Wealthfront Home Lending | Palo Alto, CA | Nov 2 | [Apply](https://jobs.lever.co/wealthfront/97f51038-7c78-4a7d-ae16-e80aa758bf71) · [Find the hiring manager](https://warmada.com/job/wealthfront-senior-content-designer-wealthfront-home-lending-2ab38ab4-70d1-489c-bec6-4ef30a449a59?utm_source=github&utm_medium=list&utm_campaign=design) |
-| Wealthfront | Principal Product Designer, Investing | Palo Alto, CA | Nov 2 | [Apply](https://jobs.lever.co/wealthfront/cab92a5e-7cc5-48ea-9755-5f9f2fdcfad9) · [Find the hiring manager](https://warmada.com/job/wealthfront-principal-product-designer-investing-fae16253-6d0a-4dd7-8753-523fc28ce5a8?utm_source=github&utm_medium=list&utm_campaign=design) |
