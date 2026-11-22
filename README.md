@@ -1,6 +1,6 @@
 # US Design Jobs
 
-Open design roles at US employers: 94 design roles at 72 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=design).** Last updated 2026-11-21.
+Open design roles at US employers: 94 design roles at 72 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=design).** Last updated 2026-11-22.
 
 All 94 are listed below. Browse the newest on [warmada.com/jobs/design](https://warmada.com/jobs/design?utm_source=github&utm_medium=list&utm_campaign=design).
 
@@ -32,7 +32,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Notion](https://warmada.com/companies/notion?utm_source=github&utm_medium=list&utm_campaign=design) | Product Design Intern (Summer 2027) | New York, New York | Nov 10 | [Apply](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) · [Find the hiring manager](https://warmada.com/job/notion-product-design-intern-summer-2027-40581991-6912-4233-9d84-a0f9db4c4799?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Cursor](https://warmada.com/companies/cursor?utm_source=github&utm_medium=list&utm_campaign=design) | Sr. Motion Designer | New York, NY | Nov 10 | [Apply](https://jobs.ashbyhq.com/cursor/31d6d54b-87fa-4f48-a3a9-9d46018b8125) · [Find the hiring manager](https://warmada.com/job/cursor-sr-motion-designer-f32e3e53-0910-425f-a009-c21922c4963f?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Brex](https://warmada.com/companies/brex?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Product Designer, T&amp;E | New York, New York, United States | Nov 9 | [Apply](https://www.brex.com/careers/8935731002?gh_jid=8935731002) · [Find the hiring manager](https://warmada.com/job/brex-senior-product-designer-t-and-e-0431778a-b048-4138-81a4-eac71706706c?utm_source=github&utm_medium=list&utm_campaign=design) |
-| Fubo | Product Designer | New York, NY | Nov 9 | [Apply](https://careers.fubo.tv/fubotv-job-openings/?gh_jid=8368803) · [Find the hiring manager](https://warmada.com/job/fubo-product-designer-745d8a49-ba17-46bc-94c5-c039c35b8058?utm_source=github&utm_medium=list&utm_campaign=design) |
+| [Fubo](https://warmada.com/companies/fubo?utm_source=github&utm_medium=list&utm_campaign=design) | Product Designer | New York, NY | Nov 9 | [Apply](https://careers.fubo.tv/fubotv-job-openings/?gh_jid=8368803) · [Find the hiring manager](https://warmada.com/job/fubo-product-designer-745d8a49-ba17-46bc-94c5-c039c35b8058?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [EliseAI](https://warmada.com/companies/eliseai?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Product Designer (Accounting) | New York City | Nov 9 | [Apply](https://jobs.ashbyhq.com/EliseAI/64153066-6d29-46b0-bea5-61e97b06a496) · [Find the hiring manager](https://warmada.com/job/eliseai-senior-product-designer-accounting-888dbbc8-c7ba-49ee-a03e-dc0ab511f83a?utm_source=github&utm_medium=list&utm_campaign=design) |
 
 ## San Francisco (25)
