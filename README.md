@@ -1,16 +1,16 @@
 # US Design Jobs
 
-Open design roles at US employers: 94 design roles at 72 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=design).** Last updated 2026-11-22.
+Open design roles at US employers: 86 design roles at 68 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=design).** Last updated 2026-11-23.
 
-All 94 are listed below. Browse the newest on [warmada.com/jobs/design](https://warmada.com/jobs/design?utm_source=github&utm_medium=list&utm_campaign=design).
+All 86 are listed below. Browse the newest on [warmada.com/jobs/design](https://warmada.com/jobs/design?utm_source=github&utm_medium=list&utm_campaign=design).
 
-**By city:** New York (20) · San Francisco (25) · Boston (2) · Chicago (1) · Los Angeles (3) · Denver (1) · Dallas (1) · Remote (16) · Elsewhere in the US (25)
+**By city:** New York (19) · San Francisco (24) · Boston (1) · Chicago (1) · Los Angeles (2) · Denver (1) · Dallas (1) · Remote (16) · Elsewhere in the US (21)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a design role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## New York (20)
+## New York (19)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Stepful](https://warmada.com/companies/stepful?utm_source=github&utm_medium=list&utm_campaign=design) | Staff Product Designer | New York City | Nov 18 | [Apply](https://jobs.ashbyhq.com/Stepful/529eaa18-2031-45e0-b4c7-9c2b60ae58b2) · [Find the hiring manager](https://warmada.com/job/stepful-staff-product-designer-948f9578-46ee-403d-8a77-4d6b2c757a90?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Eight Sleep](https://warmada.com/companies/eight-sleep?utm_source=github&utm_medium=list&utm_campaign=design) | Product Designer (Senior/Lead) | New York City | Nov 18 | [Apply](https://jobs.ashbyhq.com/eightsleep/95078a15-645e-4acd-8d95-cbc4bfc55f31) · [Find the hiring manager](https://warmada.com/job/eight-sleep-product-designer-senior-lead-4acda82f-f66f-4708-9a1b-c444d1d0c1d4?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Eight Sleep](https://warmada.com/companies/eight-sleep?utm_source=github&utm_medium=list&utm_campaign=design) | Staff Product Designer | New York City | Nov 18 | [Apply](https://jobs.ashbyhq.com/eightsleep/5a2480c0-3d87-4c21-b8d2-00d593c95b89) · [Find the hiring manager](https://warmada.com/job/eight-sleep-staff-product-designer-58ca8aca-effa-44f8-9b66-0086fab0c81c?utm_source=github&utm_medium=list&utm_campaign=design) |
-| incident.io | Senior Brand Designer (12 month FTC) | New York | Nov 17 | [Apply](https://jobs.ashbyhq.com/incident/f81924eb-02e1-4dc8-b70b-daab736d81e3) · [Find the hiring manager](https://warmada.com/job/incident-io-senior-brand-designer-12-month-ftc-df7f2d76-6780-4217-8da6-718fc57a42ce?utm_source=github&utm_medium=list&utm_campaign=design) |
+| [incident.io](https://warmada.com/companies/incident-io?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Brand Designer (12 month FTC) | New York | Nov 17 | [Apply](https://jobs.ashbyhq.com/incident/f81924eb-02e1-4dc8-b70b-daab736d81e3) · [Find the hiring manager](https://warmada.com/job/incident-io-senior-brand-designer-12-month-ftc-df7f2d76-6780-4217-8da6-718fc57a42ce?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Duolingo](https://warmada.com/companies/duolingo?utm_source=github&utm_medium=list&utm_campaign=design) | Associate Creative Director | New York, NY | Nov 13 | [Apply](https://careers.duolingo.com/jobs/8943317002?gh_jid=8943317002) · [Find the hiring manager](https://warmada.com/job/duolingo-associate-creative-director-11e9bdfd-7ee6-4560-a572-4674b1eb9566?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [PrizePicks](https://warmada.com/companies/prizepicks?utm_source=github&utm_medium=list&utm_campaign=design) | Creative Director | Atlanta, GA preferred, Remote; New York, NY, USA | Nov 13 | [Apply](http://prizepicks.com/position?gh_jid=8203413003) · [Find the hiring manager](https://warmada.com/job/prizepicks-creative-director-73ab375f-d7e2-4468-979c-f35634958000?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Percepta](https://warmada.com/companies/percepta?utm_source=github&utm_medium=list&utm_campaign=design) | Founding Product Designer | New York City | Nov 12 | [Apply](https://jobs.ashbyhq.com/percepta/3e673213-deca-4186-8155-5d89ad4f34bf) · [Find the hiring manager](https://warmada.com/job/percepta-founding-product-designer-2745b9a8-5f28-4687-97dd-b80be1b19ad8?utm_source=github&utm_medium=list&utm_campaign=design) |
@@ -33,9 +33,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [Cursor](https://warmada.com/companies/cursor?utm_source=github&utm_medium=list&utm_campaign=design) | Sr. Motion Designer | New York, NY | Nov 10 | [Apply](https://jobs.ashbyhq.com/cursor/31d6d54b-87fa-4f48-a3a9-9d46018b8125) · [Find the hiring manager](https://warmada.com/job/cursor-sr-motion-designer-f32e3e53-0910-425f-a009-c21922c4963f?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Brex](https://warmada.com/companies/brex?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Product Designer, T&amp;E | New York, New York, United States | Nov 9 | [Apply](https://www.brex.com/careers/8935731002?gh_jid=8935731002) · [Find the hiring manager](https://warmada.com/job/brex-senior-product-designer-t-and-e-0431778a-b048-4138-81a4-eac71706706c?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Fubo](https://warmada.com/companies/fubo?utm_source=github&utm_medium=list&utm_campaign=design) | Product Designer | New York, NY | Nov 9 | [Apply](https://careers.fubo.tv/fubotv-job-openings/?gh_jid=8368803) · [Find the hiring manager](https://warmada.com/job/fubo-product-designer-745d8a49-ba17-46bc-94c5-c039c35b8058?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [EliseAI](https://warmada.com/companies/eliseai?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Product Designer (Accounting) | New York City | Nov 9 | [Apply](https://jobs.ashbyhq.com/EliseAI/64153066-6d29-46b0-bea5-61e97b06a496) · [Find the hiring manager](https://warmada.com/job/eliseai-senior-product-designer-accounting-888dbbc8-c7ba-49ee-a03e-dc0ab511f83a?utm_source=github&utm_medium=list&utm_campaign=design) |
 
-## San Francisco (25)
+## San Francisco (24)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -63,14 +62,12 @@ A bad listing? Email hello@warmada.com with the link.
 | [Plaid](https://warmada.com/companies/plaid?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Brand Designer, Systems | San Francisco HQ | Nov 10 | [Apply](https://jobs.ashbyhq.com/plaid/130486d3-15c8-4a9f-8dc6-41850b77c24c) · [Find the hiring manager](https://warmada.com/job/plaid-senior-brand-designer-systems-fbe145c2-f6ae-485b-90a5-ec90ee3bb563?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Pinterest](https://warmada.com/companies/pinterest?utm_source=github&utm_medium=list&utm_campaign=design) | Product Design Intern (USA) | San Francisco, CA, US; Remote, US | Nov 10 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8350814) · [Find the hiring manager](https://warmada.com/job/pinterest-product-design-intern-usa-29ca3f7c-a8bb-477a-8c7b-3ac25860bbaa?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Cursor](https://warmada.com/companies/cursor?utm_source=github&utm_medium=list&utm_campaign=design) | Sr. Brand Designer | San Francisco, CA | Nov 10 | [Apply](https://jobs.ashbyhq.com/cursor/f75de440-51bf-4d7e-acf9-00e50ae4a281) · [Find the hiring manager](https://warmada.com/job/cursor-sr-brand-designer-e4b4742f-074f-4bff-a7fa-0903bfcd8687?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Figma](https://warmada.com/companies/figma?utm_source=github&utm_medium=list&utm_campaign=design) | Creative Director, Brand Experience | San Francisco, CA • New York, NY • United States | Nov 9 | [Apply](https://boards.greenhouse.io/figma/jobs/6232528004?gh_jid=6232528004) · [Find the hiring manager](https://warmada.com/job/figma-creative-director-brand-experience-e548f3b2-6ed5-4a3e-afb8-3a68890ad385?utm_source=github&utm_medium=list&utm_campaign=design) |
 
-## Boston (2)
+## Boston (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Formlabs](https://warmada.com/companies/formlabs?utm_source=github&utm_medium=list&utm_campaign=design) | Industrial Designer - New and Exploratory Projects | Boston, MA | Nov 19 | [Apply](https://careers.formlabs.com/job/8402100/apply/?gh_jid=8402100) · [Find the hiring manager](https://warmada.com/job/formlabs-industrial-designer-new-and-exploratory-projects-252a5a3e-07d3-4df7-ad14-2cacaa6c6d51?utm_source=github&utm_medium=list&utm_campaign=design) |
-| Topline Pro | Senior Agent Designer | Boston, Massachusetts | Nov 9 | [Apply](https://jobs.ashbyhq.com/topline-pro/fb5d9b8e-02c5-4283-8266-2ade6ae2cead) · [Find the hiring manager](https://warmada.com/job/topline-pro-senior-agent-designer-b2c5bb25-f09c-4f12-89f6-678e74ef21f2?utm_source=github&utm_medium=list&utm_campaign=design) |
 
 ## Chicago (1)
 
@@ -78,13 +75,12 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Benesch](https://warmada.com/companies/benesch?utm_source=github&utm_medium=list&utm_campaign=design) | Structural Designer I | Chicago, IL | Nov 10 | [Apply](https://www.benesch.com/job-openings/5242355007?gh_jid=5242355007) · [Find the hiring manager](https://warmada.com/job/benesch-structural-designer-i-5d251fff-876f-4777-9bbf-fda2625fe499?utm_source=github&utm_medium=list&utm_campaign=design) |
 
-## Los Angeles (3)
+## Los Angeles (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | Doctronic | Creative Director | Los Angeles | Nov 12 | [Apply](https://jobs.ashbyhq.com/doctronic/9a3248ce-05de-40f6-a647-f001e42cb28e) · [Find the hiring manager](https://warmada.com/job/doctronic-creative-director-a6ec8eb6-6c4b-46d2-b719-c74d8dc054e8?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Navan](https://warmada.com/companies/navan?utm_source=github&utm_medium=list&utm_campaign=design) | Brand Designer | Los Angeles, CA | Nov 11 | [Apply](https://navan.com/careers/openings?gh_jid=8375733) · [Find the hiring manager](https://warmada.com/job/navan-brand-designer-18d4c344-a096-441f-bfb6-1608dd02ad8a?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Cantina](https://warmada.com/companies/cantina?utm_source=github&utm_medium=list&utm_campaign=design) | Sr. Product Designer | Los Angeles | Nov 9 | [Apply](https://jobs.ashbyhq.com/cantina/cc3761a5-cc2f-4e04-bc43-c6f5af480ac0) · [Find the hiring manager](https://warmada.com/job/cantina-sr-product-designer-5d5f3a81-93ad-4940-b341-337b4776d266?utm_source=github&utm_medium=list&utm_campaign=design) |
 
 ## Denver (1)
 
@@ -114,12 +110,12 @@ A bad listing? Email hello@warmada.com with the link.
 | [CentralReach](https://warmada.com/companies/centralreach?utm_source=github&utm_medium=list&utm_campaign=design) | Instructional Designer I | Fort Lauderdale, Florida, United States, Holmdel, New Jersey, United States, McLean, Virginia, United States, Remote - US | Nov 18 | [Apply](https://job-boards.greenhouse.io/centralreach/jobs/4511461009) · [Find the hiring manager](https://warmada.com/job/centralreach-instructional-designer-i-5d97c82e-6291-4156-8ad3-246355613e63?utm_source=github&utm_medium=list&utm_campaign=design) |
 | Replicant | Director, Product Design | United States | Nov 18 | [Apply](https://jobs.ashbyhq.com/Replicant/92eeb30f-ffc3-4906-9c7b-a348240ba134) · [Find the hiring manager](https://warmada.com/job/replicant-director-product-design-ba30d7fe-dc38-403c-85d2-e1dd50c85de7?utm_source=github&utm_medium=list&utm_campaign=design) |
 | Nash | AI Brand Design Lead | Remote, US | Nov 18 | [Apply](https://jobs.ashbyhq.com/Nash/f113934d-7ef9-4013-80df-a21f1fceac20) · [Find the hiring manager](https://warmada.com/job/nash-ai-brand-design-lead-6b372a34-92cb-4c34-b866-69222016925d?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Jasper](https://warmada.com/companies/jasper?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Product Designer | United States | Nov 17 | [Apply](https://jobs.ashbyhq.com/Jasper%20AI/06305db2-fd8d-488e-8a19-d5faa847b731) · [Find the hiring manager](https://warmada.com/job/jasper-senior-product-designer-72ecfa08-65ac-4d31-8495-9b7f4c3edf41?utm_source=github&utm_medium=list&utm_campaign=design) |
+| Jasper | Senior Product Designer | United States | Nov 17 | [Apply](https://jobs.ashbyhq.com/Jasper%20AI/06305db2-fd8d-488e-8a19-d5faa847b731) · [Find the hiring manager](https://warmada.com/job/jasper-senior-product-designer-72ecfa08-65ac-4d31-8495-9b7f4c3edf41?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Twilio](https://warmada.com/companies/twilio?utm_source=github&utm_medium=list&utm_campaign=design) | Staff Product Designer | Remote - US | Nov 12 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8310632) · [Find the hiring manager](https://warmada.com/job/twilio-staff-product-designer-095a32a2-5b17-472f-a313-e90c1678022f?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Pogo Technologies, Inc.](https://warmada.com/companies/pogo-technologies-inc?utm_source=github&utm_medium=list&utm_campaign=design) | Motion Designer &amp; Video Editor | United States/Canada | Nov 11 | [Apply](https://jobs.ashbyhq.com/joinpogo/982d8b87-316d-437c-92f3-6ae4bf7740b9) · [Find the hiring manager](https://warmada.com/job/pogo-technologies-inc-motion-designer-and-video-editor-b26092e1-9477-42f4-a474-6c0881bc54f2?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Runpod](https://warmada.com/companies/runpod?utm_source=github&utm_medium=list&utm_campaign=design) | Brand Designer and Illustrator | Remote - USA | Nov 10 | [Apply](https://jobs.ashbyhq.com/runpod/18a638a7-f7bd-4b47-99df-ca3989f4e57c) · [Find the hiring manager](https://warmada.com/job/runpod-brand-designer-and-illustrator-cbc38fc5-7b4e-4caf-bf4b-f73432378ecb?utm_source=github&utm_medium=list&utm_campaign=design) |
 
-## Elsewhere in the US (25)
+## Elsewhere in the US (21)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -144,7 +140,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=design) | Product Designer, Treasury | US / Canada | Nov 11 | [Apply](https://stripe.com/jobs/search?gh_jid=8205126) · [Find the hiring manager](https://warmada.com/job/stripe-product-designer-treasury-ab5db839-5a72-482a-ae29-cc15e49e951d?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=design) | Sr. 3D Generalist, UX | Newark, CA | Nov 10 | [Apply](https://lucidmotors.com/careers/search/5253175007?gh_jid=5253175007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-sr-3d-generalist-ux-bb4a9f06-563e-4656-a7f8-3aa2eedb0970?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Formlabs](https://warmada.com/companies/formlabs?utm_source=github&utm_medium=list&utm_campaign=design) | Senior User Researcher | Somerville, MA | Nov 10 | [Apply](https://careers.formlabs.com/job/8368577/apply/?gh_jid=8368577) · [Find the hiring manager](https://warmada.com/job/formlabs-senior-user-researcher-830cd099-f557-4cb6-94d9-10b2219b3bcd?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Zoox](https://warmada.com/companies/zoox?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Exterior Designer, Robot Industrial Design | Foster City, CA | Nov 9 | [Apply](https://jobs.lever.co/zoox/587518db-01e7-4408-8a1f-683846567483) · [Find the hiring manager](https://warmada.com/job/zoox-senior-exterior-designer-robot-industrial-design-cee76a58-6fb3-4922-a991-904bb71a1c35?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Blink Health](https://warmada.com/companies/blink-health?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Instructional Designer, Training Design &amp; Delivery | Pittsburgh, PA; St. Louis, MO | Nov 9 | [Apply](https://job-boards.greenhouse.io/blinkhealth/jobs/8935278002) · [Find the hiring manager](https://warmada.com/job/blink-health-senior-instructional-designer-training-design-and-delivery-2ab53b23-3d3b-4a18-9bc0-3be437d803ea?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Duolingo](https://warmada.com/companies/duolingo?utm_source=github&utm_medium=list&utm_campaign=design) | Product Designer, Thrive Intern | Pittsburgh, PA | Nov 9 | [Apply](https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002) · [Find the hiring manager](https://warmada.com/job/duolingo-product-designer-thrive-intern-0d3c9fef-e9e7-43c1-b23d-7eb413c4bdfb?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Benesch](https://warmada.com/companies/benesch?utm_source=github&utm_medium=list&utm_campaign=design) | Civil Roadway Designer | Franklin, TN; Nashville, TN | Nov 9 | [Apply](https://www.benesch.com/job-openings/5273165007?gh_jid=5273165007) · [Find the hiring manager](https://warmada.com/job/benesch-civil-roadway-designer-063edf08-6180-4f0b-9e6a-326438c8127e?utm_source=github&utm_medium=list&utm_campaign=design) |
