@@ -1,16 +1,16 @@
 # US Design Jobs
 
-Open design roles at US employers: 65 design roles at 54 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=design).** Last updated 2026-11-27.
+Open design roles at US employers: 62 design roles at 52 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=design).** Last updated 2026-11-28.
 
-All 65 are listed below. Browse the newest on [warmada.com/jobs/design](https://warmada.com/jobs/design?utm_source=github&utm_medium=list&utm_campaign=design).
+All 62 are listed below. Browse the newest on [warmada.com/jobs/design](https://warmada.com/jobs/design?utm_source=github&utm_medium=list&utm_campaign=design).
 
-**By city:** New York (14) · San Francisco (14) · Seattle (1) · Boston (1) · Denver (1) · Atlanta (1) · Dallas (1) · Remote (15) · Elsewhere in the US (17)
+**By city:** New York (13) · San Francisco (14) · Seattle (1) · Boston (1) · Denver (1) · Atlanta (1) · Remote (15) · Elsewhere in the US (16)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a design role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## New York (14)
+## New York (13)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -27,7 +27,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Stepful](https://warmada.com/companies/stepful?utm_source=github&utm_medium=list&utm_campaign=design) | Staff Product Designer | New York City | Nov 18 | [Apply](https://jobs.ashbyhq.com/Stepful/529eaa18-2031-45e0-b4c7-9c2b60ae58b2) · [Find the hiring manager](https://warmada.com/job/stepful-staff-product-designer-948f9578-46ee-403d-8a77-4d6b2c757a90?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Eight Sleep](https://warmada.com/companies/eight-sleep?utm_source=github&utm_medium=list&utm_campaign=design) | Product Designer (Senior/Lead) | New York City | Nov 18 | [Apply](https://jobs.ashbyhq.com/eightsleep/95078a15-645e-4acd-8d95-cbc4bfc55f31) · [Find the hiring manager](https://warmada.com/job/eight-sleep-product-designer-senior-lead-4acda82f-f66f-4708-9a1b-c444d1d0c1d4?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Eight Sleep](https://warmada.com/companies/eight-sleep?utm_source=github&utm_medium=list&utm_campaign=design) | Staff Product Designer | New York City | Nov 18 | [Apply](https://jobs.ashbyhq.com/eightsleep/5a2480c0-3d87-4c21-b8d2-00d593c95b89) · [Find the hiring manager](https://warmada.com/job/eight-sleep-staff-product-designer-58ca8aca-effa-44f8-9b66-0086fab0c81c?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Duolingo](https://warmada.com/companies/duolingo?utm_source=github&utm_medium=list&utm_campaign=design) | Associate Creative Director | New York, NY | Nov 13 | [Apply](https://careers.duolingo.com/jobs/8943317002?gh_jid=8943317002) · [Find the hiring manager](https://warmada.com/job/duolingo-associate-creative-director-11e9bdfd-7ee6-4560-a572-4674b1eb9566?utm_source=github&utm_medium=list&utm_campaign=design) |
 
 ## San Francisco (14)
 
@@ -72,12 +71,6 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [PrizePicks](https://warmada.com/companies/prizepicks?utm_source=github&utm_medium=list&utm_campaign=design) | Senior Product Designer | Atlanta, GA preferred, Remote | Nov 23 | [Apply](http://prizepicks.com/position?gh_jid=8046063003) · [Find the hiring manager](https://warmada.com/job/prizepicks-senior-product-designer-cc3e5b69-5053-4795-981d-bae9f5edd000?utm_source=github&utm_medium=list&utm_campaign=design) |
 
-## Dallas (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| Homebound | Interior Designer | Dallas, TX | Nov 13 | [Apply](https://jobs.ashbyhq.com/Homebound/11f655b3-e46b-4efb-896f-00689e8291ac) · [Find the hiring manager](https://warmada.com/job/homebound-interior-designer-82393b6d-0ffe-4cc6-84d7-6aba38f49e87?utm_source=github&utm_medium=list&utm_campaign=design) |
-
 ## Remote (15)
 
 | Company | Role | Location | Posted | Links |
@@ -98,7 +91,7 @@ A bad listing? Email hello@warmada.com with the link.
 | Nash | AI Brand Design Lead | Remote, US | Nov 18 | [Apply](https://jobs.ashbyhq.com/Nash/f113934d-7ef9-4013-80df-a21f1fceac20) · [Find the hiring manager](https://warmada.com/job/nash-ai-brand-design-lead-6b372a34-92cb-4c34-b866-69222016925d?utm_source=github&utm_medium=list&utm_campaign=design) |
 | Jasper | Senior Product Designer | United States | Nov 17 | [Apply](https://jobs.ashbyhq.com/Jasper%20AI/06305db2-fd8d-488e-8a19-d5faa847b731) · [Find the hiring manager](https://warmada.com/job/jasper-senior-product-designer-72ecfa08-65ac-4d31-8495-9b7f4c3edf41?utm_source=github&utm_medium=list&utm_campaign=design) |
 
-## Elsewhere in the US (17)
+## Elsewhere in the US (16)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -118,4 +111,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Airbnb](https://warmada.com/companies/airbnb?utm_source=github&utm_medium=list&utm_campaign=design) | Creative Director Copy, Social | United States | Nov 17 | [Apply](https://careers.airbnb.com/positions/8394407?gh_jid=8394407) · [Find the hiring manager](https://warmada.com/job/airbnb-creative-director-copy-social-3e63be09-bb28-4282-bc74-4f7d909a3736?utm_source=github&utm_medium=list&utm_campaign=design) |
 | Menlo Security | Director, Product Design | US - Distributed | Nov 17 | [Apply](https://jobs.ashbyhq.com/menlosecurity/585985db-7e49-4f85-9b16-ff7382c9331e) · [Find the hiring manager](https://warmada.com/job/menlo-security-director-product-design-4a014af7-6010-4fa2-82d6-25d64a3d76eb?utm_source=github&utm_medium=list&utm_campaign=design) |
 | [Zoox](https://warmada.com/companies/zoox?utm_source=github&utm_medium=list&utm_campaign=design) | UX Designer Intern \[Summer 2027\] | Foster City, CA | Nov 17 | [Apply](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93) · [Find the hiring manager](https://warmada.com/job/zoox-ux-designer-intern-summer-2027-f05384da-723e-4246-9834-f6b320eb6b52?utm_source=github&utm_medium=list&utm_campaign=design) |
-| [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=design) | Lead Design CNC Programmer/Operator | Newark, CA | Nov 14 | [Apply](https://lucidmotors.com/careers/search/5295346007?gh_jid=5295346007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-lead-design-cnc-programmer-operator-b12c6910-299e-4504-90db-1c1abd4fc89a?utm_source=github&utm_medium=list&utm_campaign=design) |
